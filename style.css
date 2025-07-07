@@ -1,0 +1,30 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+
+h1 {
+  text-align: center;
+  background-color: #86c9ce;
+  color: white;
+  padding: 20px;
+}
+
+
+nav ul {
+  display: flex;
+  justify-content: space-around;
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 10px 0;
+}
+
+nav ul li a {
+ 
+  color: #000000;
+  font-weight: bold;
+}
+
